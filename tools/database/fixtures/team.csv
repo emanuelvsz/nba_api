@@ -1,0 +1,4 @@
+id;name;description;founded_at;terminated_at;is_active
+aa5e5a81-fb2a-4004-915d-315781e523a6;Los Angeles Lakers;One of the most successful NBA franchises;1947-01-01;;true
+a19cfc09-8e7d-4daa-8ce3-7d098df88f19;Golden State Warriors;Known for three-point shooting;1946-01-01;;true
+e5b0c53a-3f77-4f0a-b6b7-50bf54a48e9d;Brooklyn Nets;Recently acquired several star players;1967-01-01;;true
